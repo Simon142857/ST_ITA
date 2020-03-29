@@ -1,7 +1,7 @@
 # ST_ITA
 
-some classical algorithms implemented by simon in reading the book ITA
+some classical algorithms implemented by simon while reading the book ITA
 
-just to practice my coding ability and vim skills
+just practice my coding ability and vim skills
 
 
